@@ -1,16 +1,42 @@
-## Hi there 👋
+# 👋 Hi, I'm MrTekPet22!
 
-<!--
-**MrTekPet22/MrTekPet22** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+Welcome to my GitHub profile! I am a frontend developer who loves building web apps and experimenting with game engines, mobile apps, and fun coding languages.
 
-Here are some ideas to get you started:
+---
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+### 🛠️ Core Skills
+These are the technologies I use the most:
+
+![HTML5](https://shields.io)
+![CSS3](https://shields.io)
+![JavaScript](https://shields.io)
+
+---
+
+### 🚀 Currently Learning & Building
+I am expanding my skills into mobile apps, game development, and backend tools:
+
+![Unity](https://shields.io)
+![Flutter](https://shields.io)
+![Android Studio](https://shields.io)
+![Firebase](https://shields.io)
+![Python](https://shields.io)
+
+---
+
+### 🍇 Fun Stuff
+* **Emojicode**: 🏁 🍇 🚀 🍉 (Yes, this was actually the very first language I learnt, at 9 years old!)
+
+---
+
+### 📊 My GitHub Statistics
+
+| GitHub Stats | Most Used Languages |
+| --- | --- |
+| <img src="https://vercel.app" alt="MrTekPet22's GitHub Stats" width="400" /> | <img src="https://vercel.app" alt="MrTekPet22's Top Languages" width="400" /> |
+
+---
+
+### 🎯 Get In Touch
+* 💬 Ask me about web development or my latest game ideas!
+* 📫 How to reach me: Drop a message or check out my repositories.
