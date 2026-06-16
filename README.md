@@ -25,7 +25,17 @@ I am expanding my skills into mobile apps, game development, and backend tools:
 ---
 
 ### 🍇 Fun Stuff
-* **Emojicode**: 🏁 🍇 🚀 🍉 (Yes, this was actually the very first language I learnt, at 9 years old!)
+* **Emojicode**: 🏁 🍇 🚀 🍉 (Yes, I am actually learning a language made entirely of emojis for the laughs!)
+
+---
+
+### 👥 Shout-Outs & Friends
+Here are some awesome people you should check out:
+
+* **[@james-c24](https://github.com)** - The Python GOAT!!
+* **[@ERR0RA](https://github.com)** - Co-founder of Nebula Games, along with me. Very creative!
+* **[@DXBLondon](https://github.com)** - Uno, dos, tres.
+* **[@adamthespongeycheese67](https://github.com)** - Funny cool dude...
 
 ---
 
