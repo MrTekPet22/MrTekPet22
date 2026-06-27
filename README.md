@@ -35,7 +35,7 @@ I am expanding my skills into mobile apps, game development, and backend tools:
 
 | GitHub Stats | Most Used Languages |
 | --- | --- |
-| <img src="https://github-readme-stats.vercel.app/api?username=mrtekpet22&show_icons=true&hide=issues&theme=transparent" alt="MrTekPet22's GitHub Stats" width="400" /> | <img src="https://vercel.app" alt="MrTekPet22's Top Languages" width="400" /> |
+| <img src="https://github-readme-stats.vercel.app/api?username=mrtekpet22&show_icons=true&hide=issues" alt="MrTekPet22's GitHub Stats" width="400" /> | <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=mrtekpet22&langs_count=3" alt="MrTekPet22's Top Languages" width="400" /> |
 
 ---
 
