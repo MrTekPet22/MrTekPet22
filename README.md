@@ -9,7 +9,7 @@ These are the technologies I use the most:
 
 ![HTML5](https://shields.io)
 ![CSS3](https://shields.io)
-![JavaScript](https://shields.io)
+![JavaScript](https://img.shields.io/badge/logo-javascript-blue?logo=javascript)
 
 ---
 
