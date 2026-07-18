@@ -39,6 +39,7 @@ I am expanding my skills into mobile apps, game development, and backend tools:
 
 ---
 
-### 🎯 Get In Touch
-* 💬 Ask me about web development or my latest game ideas!
-* 📫 How to reach me: Drop a message or check out my repositories.
+### 🎯 How to Support Me
+If you enjoy my work, a small tip on Ko-fi helps me dedicate more time to open-source development.
+
+[![ko-fi](https://ko-fi.com/img/githubbutton_sm.svg)](https://ko-fi.com/mrtekpet22)
