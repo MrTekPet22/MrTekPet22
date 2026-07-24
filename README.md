@@ -39,7 +39,11 @@ I am expanding my skills into mobile apps, game development, and backend tools:
 
 ---
 
-### 🎯 How to Support Me
-If you enjoy my work, a small tip on Ko-fi helps me dedicate more time to open-source development.
+### 💼 Freelance Web Design Services
+I create beautiful, modern, and highly responsive websites from scratch. Let's work together to turn your ideas into a stunning digital reality.
 
-[![ko-fi](https://ko-fi.com/img/githubbutton_sm.svg)](https://ko-fi.com/mrtekpet22)
+* **HTML**: Structuring semantic, SEO-friendly layout foundations.
+* **CSS**: Designing responsive, pixel-perfect, and modern styles.
+* **JavaScript**: Adding smooth animations and interactive user experiences.
+
+If you are interested, please contact me through my business email: tekpetdigital@duck.com
